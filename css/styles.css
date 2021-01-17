@@ -1,0 +1,21 @@
+.box1 {
+  margin: 12px;
+  border: 5px;
+  padding: 4px;
+  background-color: olive;
+}
+
+.float1 {
+  float: center;
+}
+
+.centertext {
+  text-align: center;
+}
+
+.centerimage {
+  display: block;
+  margin: auto;
+  width: 50%;
+  height: auto;
+}
